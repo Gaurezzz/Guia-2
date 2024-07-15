@@ -1,0 +1,18 @@
+[submodule "ejemplo1"]
+	path = ejemplo1
+	url = https://github.com/Gaurezzz/ejemplo1
+[submodule "ejemplo2"]
+	path = ejemplo2
+	url = https://github.com/Gaurezzz/ejemplo2
+[submodule "ejemplo3"]
+	path = ejemplo3
+	url = https://github.com/Gaurezzz/ejemplo3
+[submodule "ejemplo4"]
+	path = ejemplo4
+	url = https://github.com/Gaurezzz/ejemplo4
+[submodule "discusion/problema1"]
+	path = discusion/problema1
+	url = https://github.com/Gaurezzz/problema1
+[submodule "discusion/problema2"]
+	path = discusion/problema2
+	url = https://github.com/Gaurezzz/problema2
